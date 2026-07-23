@@ -63,7 +63,7 @@ img {
     p {
         font-size: 150%;
     }
-    ,card {
+    .card {
         width: 80%;
     }
 }
